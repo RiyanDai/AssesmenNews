@@ -1,9 +1,5 @@
 # News App
 
-## Deskripsi
-
-News App adalah aplikasi Android yang menyediakan informasi terkini tentang berita dari berbagai sumber. Aplikasi ini dirancang untuk memberikan pengalaman pengguna yang intuitif dengan fitur pencarian berita, pemilihan sumber berita, dan tampilan daftar berita yang terperinci. Dibangun dengan Kotlin dan menggunakan arsitektur modern Android, aplikasi ini memanfaatkan teknologi Room untuk penyimpanan lokal dan Retrofit untuk pengambilan data dari API berita.
-
 ## Fitur Utama
 
 - **Pencarian Berita**: Memungkinkan pengguna untuk mencari berita berdasarkan judul. Saran pencarian ditampilkan berdasarkan riwayat pencarian terbaru.
