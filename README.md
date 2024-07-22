@@ -6,7 +6,7 @@
 - **Filter Berdasarkan Sumber**: Pengguna dapat memilih dari berbagai sumber berita atau melihat berita dari semua sumber.
 - **Daftar Berita**: Menampilkan daftar berita dengan judul, ringkasan, tanggal terbit, dan gambar.
 - **Penyimpanan Riwayat Pencarian**: Menyimpan dan menampilkan riwayat pencarian terbaru pengguna.
-- **Tampilan Responsif**: Dirancang untuk bekerja dengan baik di berbagai ukuran layar.
+ 
 
 ## Teknologi yang Digunakan
 
